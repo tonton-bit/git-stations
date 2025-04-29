@@ -47,4 +47,10 @@
   color: white;
   background: linear-gradient(to bottom right, #493a40, #2c424d);
 }
-  
+/* フッターの背景色を黒に変更 */
+footer {
+  background-color: black;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
